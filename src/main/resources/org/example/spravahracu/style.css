@@ -1,0 +1,12 @@
+
+.high-level {
+    -fx-text-fill: red;
+}
+
+.mid-level {
+    -fx-text-fill: blue;
+}
+
+.low-level {
+    -fx-text-fill: green;
+}
